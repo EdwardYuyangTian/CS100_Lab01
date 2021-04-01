@@ -27,6 +27,7 @@ git status
 git push
 ```
 I referenced [VS Code Version Control Documentation](https://code.visualstudio.com/docs/editor/versioncontrol#_git-support) in this assignment.
+
 [The README file of this repo](./README.md)
 
 Cool things I learned in this Lab:
